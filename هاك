@@ -1,0 +1,7 @@
+-- RYNCOS VN7L Welcome Script
+print("RYNCOS VN7L Loaded Successfully!")
+game.StarterGui:SetCore("SendNotification", {
+    Title = "RYNCOS VN7L",
+    Text = "Welcome! No Key System Active 🇻🇳",
+    Duration = 5
+})
