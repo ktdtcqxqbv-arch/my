@@ -1,0 +1,15 @@
+{
+  "name": "Delta Vietnam Repository",
+  "identifier": "com.delta.vietnam",
+  "apps": [
+    {
+      "name": "Delta Vietnam",
+      "bundleIdentifier": "com.rileytestut.Delta.vietnam",
+      "developerName": "Delta VN Team",
+      "version": "1.5",
+      "downloadURL": "ضع_رابط_ملف_الـIPA_هنا.ipa",
+      "iconURL": "https://raw.githubusercontent.com/nmkhang/delta-vietnam/main/icon.png",
+      "localizedDescription": "نسخة دلتا المعدلة لدعم الثيمات والألعاب الفيتنامية."
+    }
+  ]
+}
